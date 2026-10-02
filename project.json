@@ -1,0 +1,20 @@
+{
+  "id": 1455,
+  "title": "Renewable Energy Trainer Fault Injection",
+  "repository_slug": "renewable-energy-trainer-fault-injection",
+  "category": "Education",
+  "platform": "Raspberry Pi",
+  "platform_family": "python",
+  "difficulty": "Intermediate",
+  "estimated_hours": 24,
+  "connectivity": "Radio",
+  "components": [
+    "rotary encoder",
+    "assorted sensors"
+  ],
+  "scope": "Build a education prototype that uses rotary encoder, assorted sensors to introduce safe faults for troubleshooting practice. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Fault Injection demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "src/main.py",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
